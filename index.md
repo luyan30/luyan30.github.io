@@ -4,7 +4,7 @@
 
 
 ### Summary
-This is a place study memo. 
+This is a place for study/life memo. 
 
 
 ### Contact
